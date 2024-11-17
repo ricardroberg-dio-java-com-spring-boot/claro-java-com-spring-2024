@@ -1,13 +1,13 @@
-package me.dio.claro_java_com_spring_2024;
+package me.dio;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ClaroJavaComSpring2024Application {
+public class Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ClaroJavaComSpring2024Application.class, args);
+		SpringApplication.run(Application.class, args);
 	}
 
 }
